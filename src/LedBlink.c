@@ -59,9 +59,6 @@ void main()
     {
 		LED = ~LED;
 		__delay_ms(1000);
-        __delay_ms(1000);
-        __delay_ms(1000);
-        __delay_ms(1000);
 	}
 }
 
